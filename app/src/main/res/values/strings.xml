@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">YovoBot</string>
+
+    <string name="whatsapp">WhatsApp</string>
+    <string name="whatsapp_desc">WhatsApp Picture</string>
+
+
+    <string name="youtube">YouTube</string>
+    <string name="youtube_desc">YouTube Description</string>
+
+
+    <string name="settings">Settings</string>
+    <string name="settings_desc">Setting Icon</string>
+
+
+    <string name="facebook">FaceBook</string>
+    <string name="facebook_desc">faceBook Picture</string>
+
+
+    <string name="instagram">Instagram</string>
+    <string name="instagram_desc">Instagram Picture</string>
+
+
+    <string name="ringtone">RingTone</string>
+    <string name="ringtone_desc">RingTone Picture</string>
+
+    <string name="user_name">Shobha Modi</string>
+    <string name="profile_subtext">Your personal assistant</string>
+    <string name="profile_desc">Profile Description</string>
+
+    <string name="video_url">Video URL</string>
+    <string name="download_button_info">Download Button</string>
+    <string name="yt_vdo_downloader">YT Downloader</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="whatsappb_status">B Status</string>
+    <string name="whatsapp_status">Status</string>
+    <string name="allow_permission">Allow Permission</string>
+    <string name="please_allow_permissions_for_statuses">Please Allow Permissions for Statuses</string>
+
+    <string name="play">play</string>
+    <string name="pick">pick</string>
+    <string name="convert">convert</string>
+    <string name="progressBar">progressBar</string>
+</resources>
